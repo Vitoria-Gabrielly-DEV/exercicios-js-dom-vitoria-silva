@@ -1,7 +1,7 @@
 # exercicios-js-dom-vitoria-silva
 Entrega de lista de exercícios -Manipulação do DOM e Validação em JavaScript 
 
-Aluno(): Vitória Gabrielly Gomes da Silva
+Aluno(a): Vitória Gabrielly Gomes da Silva
 
 Professor(a): Rafaella Chrystiane de Moura Matos
 
